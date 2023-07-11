@@ -1,0 +1,21 @@
+{
+  "name": "Hello Coolio",
+  "description": "A powerfull Hello Coolio google chrome extension.",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Hello Coolio",
+    "default_icon": {
+      "16": "icon.png",
+      "24": "icon.png",
+      "32": "icon.png"
+    }
+  },
+  "icons": {
+    "128": "icon.png",
+    "16": "icon.png",
+    "256": "icon.png",
+    "48": "icon.png"
+  }
+}
